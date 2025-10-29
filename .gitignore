@@ -1,0 +1,31 @@
+# Logs and backups
+*.log
+*.bak
+*.backup
+*.old
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Backup directories
+/var/backups/
+backup/
+backups/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+.directory
+desktop.ini
