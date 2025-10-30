@@ -120,8 +120,8 @@ This suite consists of two powerful scripts designed to transform your Linux sys
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ultimate-linux-suite.git
-cd ultimate-linux-suite
+git clone https://github.com/Nerds489/ubuntu-tools.git
+cd ubuntu-tools
 
 # Make scripts executable
 chmod +x ultimate_system_optimizer.sh ultimate_app_installer.sh
